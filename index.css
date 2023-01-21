@@ -1,0 +1,9 @@
+.hederButton{
+    border-bottom: 1px solid Black;
+    text-align: right;
+    padding-bottom: 5px;
+}
+
+.hide{
+    display:none
+}
